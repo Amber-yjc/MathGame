@@ -1,0 +1,30 @@
+form{
+    padding: 20;
+}
+
+.btn-logout{
+    float: right;
+}
+
+.btn-submit{
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.form-width{
+    width: 80%;
+    max-width: 500;
+    margin: auto;
+    margin-top: 20;
+}
+
+.correct-answer{
+    color: limegreen;
+}
+
+.wrong-answer{
+    color: red;
+}
