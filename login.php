@@ -32,8 +32,7 @@
         <span class="wrong-answer">
             <?php
             echo $error;
-            ?>
-            
+            ?>          
             
             
         </span>            

@@ -1,6 +1,5 @@
 <?php 
     session_start();
-
     $validation = file_get_contents("credentials.config");
     $email_info = null;
     $password_info = null;
